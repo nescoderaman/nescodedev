@@ -1,0 +1,49 @@
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    font-family: 'Open Sans', sans-serif;
+     font-size: 14px;
+     background:#FFFFFF;
+}
+.container{
+max-width:970px;
+}
+/* top menu css*/
+.nestopcenter{
+    font-size: 13px;
+}
+/* top menu end here*/
+/* top menu colour*/
+a {
+color: Black;
+text-decoration: none;
+}
+/* hr tag css */
+hr {
+    margin-top: 5px;
+    }
+/* screen-shot image padding*/
+.screenshot{
+padding-left:0px;
+}
+.image{
+height:325px;
+width:630px;
+}
+/* for button  colour*/
+.nesbtn {
+color: black;
+background-color: #E6E6E6;
+border-color: #ccc;
+border-radius: 0px;
+}
+/*for taking space*/
+.space{
+padding-bottom:20px;
+}
+/* group button css*/
+.btn-group>.btn:last-child:not(:first-child), .btn-group>.dropdown-toggle:not(:first-child) {
+width:90px
+}
